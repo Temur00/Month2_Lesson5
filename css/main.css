@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-width: 1480px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 94px;
+}
+
+.hero__text {
+  margin-top: 28px;
+}
+
+.hero__pic {
+  width: 100%;
+  max-width: 950px;
+  display: block;
+  margin-top: 90px;
+  margin: o auto;
+}
+
+.hero__buttons {
+  display: block;
+  margin: 0 auto;
+  margin-top: 76px;
+}
+
+.hero__button1 {
+  width: 189px;
+  max-width: 189px;
+  padding-top: 11px;
+  padding-bottom: 14px;
+  cursor: pointer;
+  border: none;
+  border-radius: 30px;
+  background: #6f2cff;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 90px;
+}
+
+.hero__button2 {
+  width: 189px;
+  max-width: 189px;
+  padding-top: 11px;
+  padding-bottom: 14px;
+  cursor: pointer;
+  border: none;
+  border-radius: 30px;
+  background: #fff;
+  color: #6f2cff;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 90px;
+}
